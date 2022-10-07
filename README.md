@@ -1,6 +1,6 @@
 # Mars Rover MRTK: Immersive Experience of the Mars Rover in Hololens
 
-![banner](https://user-images.githubusercontent.com/97734029/194332888-a2e50325-6d13-4fa2-b033-8af38c83ada9.png)
+![banner](https://user-images.githubusercontent.com/97734029/194488998-4c1a9eb3-fe3b-46ca-9905-6c1ae9ee9ff0.png)
 
 NASA's Mars Exploration Rover mission was a robotic space mission involving two Mars rovers, Spirit and Opportunity, exploring the planet Mars. It began in 2003 with the launch of the two rovers to explore the Martian surface and geology; both landed on Mars at separate locations in January 2004.
 
@@ -11,3 +11,9 @@ Unfortunately, all good things eventually come to an end, as Nelly Furtado famou
 ![tweet](https://user-images.githubusercontent.com/97734029/194331260-b6087042-75a9-4d8b-aefe-e46e81c2f54f.png)
 
 This project is a memory of that rover. It's an immersive experience that lets people attach parts to the mars rover, and see each part in detail. It entails the curiosity of children and adults alike. 
+
+## Screenshots
+
+![Screenshot](https://user-images.githubusercontent.com/97734029/194495500-f48bc6e9-4a19-4e27-8637-91e1049c79e4.jpg)
+![Screenshot (2)](https://user-images.githubusercontent.com/97734029/194495511-d953b31d-f30f-4be1-9cdd-65e0e6e0255f.jpg)
+![Screenshot (3)](https://user-images.githubusercontent.com/97734029/194495726-f2e4b65f-7206-4a8a-a53a-fabdb232cb65.jpg)
