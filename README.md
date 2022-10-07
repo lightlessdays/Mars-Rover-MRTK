@@ -12,6 +12,10 @@ Unfortunately, all good things eventually come to an end, as Nelly Furtado famou
 
 This project is a memory of that rover. It's an immersive experience that lets people attach parts to the mars rover, and see each part in detail. It entails the curiosity of children and adults alike. 
 
+## Features
+
+This is an interactive hologram of Mars Rover that allows user to assemble the rover, investigate its parts by holding them and interacting with them. It allows user to explode the rover and investigate each part closely. The hints allow users to easily assemble the rover. This project has been made possible to Microsoft MRTK2, ARFoundation and Unity.
+
 ## Screenshots
 
 ![Screenshot](https://user-images.githubusercontent.com/97734029/194495500-f48bc6e9-4a19-4e27-8637-91e1049c79e4.jpg)
